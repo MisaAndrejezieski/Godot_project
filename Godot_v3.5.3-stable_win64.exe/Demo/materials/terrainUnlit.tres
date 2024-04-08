@@ -1,0 +1,8 @@
+[gd_resource type="ShaderMaterial" load_steps=3 format=2]
+
+[ext_resource path="res://shaders/terrain.tres" type="Shader" id=1]
+[ext_resource path="res://misc/cloudNoise.tres" type="Texture" id=2]
+
+[resource]
+shader = ExtResource( 1 )
+shader_param/cloudTexture = ExtResource( 2 )
