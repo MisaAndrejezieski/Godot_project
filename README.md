@@ -21,16 +21,6 @@ Para instalar e jogar os jogos deste repositório, siga estas etapas:
 2. Navegue até a pasta do jogo que deseja jogar.
 3. Siga as instruções específicas de instalação para cada jogo.
 
-## Contribuição
-
-Contribuições são sempre bem-vindas! Se você tem alguma ideia para um novo jogo ou melhorias para os jogos existentes, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT.
-
 ## Contato
-
-Se você tiver alguma dúvida ou comentário, entre em contato comigo em seuemail@exemplo.com
-
+mandrejezieski@gmail.com
  
